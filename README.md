@@ -4,7 +4,7 @@
 
 Time spent: **3** hours spent in total
 
-Again, I did not add gitignore. Bear with me, I don't know GitHub much and use the desktop client.
+Again, I did not add gitignore! Bear with me, I don't know GitHub much and use the desktop client.
 
 ## User Stories
 
