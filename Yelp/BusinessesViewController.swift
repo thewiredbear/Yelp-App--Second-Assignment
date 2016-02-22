@@ -121,6 +121,10 @@ class BusinessesViewController: UIViewController,UITableViewDataSource,UITableVi
         self.tableView.reloadData()
     }
     
+    func searchBarSearchButtonClicked(searchBox: UISearchBar) {
+        searchBox.resignFirstResponder()
+    }
+    
     
     /*
     // MARK: - Navigation
