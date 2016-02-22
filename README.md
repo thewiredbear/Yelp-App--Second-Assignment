@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] The table reloads again on pressing the cancel button ( in the search bar ).
+- [X] Keyboard also hides on pressing the search button in the keyboard.
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
@@ -32,7 +33,12 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/2ykMKnr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/9IlAHaq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Here's a walkthrough in landscape mode: 
+
+<img src='http://i.imgur.com/deyTnAu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
